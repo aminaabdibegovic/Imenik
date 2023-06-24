@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1641939555 source:c:\users\amina\desktop\projekat\imenik.cpp
+	"imenik.h"
+	<iostream>
+
+1641939375 source:c:\users\amina\desktop\projekat\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"imenik.h"
+
+1641902816 c:\users\amina\desktop\projekat\imenik.h
+	"kontakt.h"
+	<string>
+	<vector>
+
+1641841370 c:\users\amina\desktop\projekat\imenik.cpp
+	"imenik.h"
+	<iostream>
+
+1641899567 c:\users\amina\desktop\projekat\kontakt.h
+	"imenik.h"
+	<iostream>
+	<string>
+
